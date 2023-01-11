@@ -6,6 +6,9 @@ int main(void) {
 	for (int i = 0; i < 5; i++) 
 	{
 		printf("azusatasokami\n");
+
+		printf("azusatasosaikou\n");
+
 	}
 	return 0;
 }
